@@ -1,4 +1,4 @@
-Efficient Road Traffic Navigation
+
 Welcome to Efficient Road Traffic Navigation, a project focused on optimizing road traffic using advanced data structures and algorithmic techniques in C. The goal is to efficiently compute optimal routes, manage congestion, and simulate real-world navigation scenarios using computer science fundamentals.
 Key Features
 1] Real-time shortest path calculation
